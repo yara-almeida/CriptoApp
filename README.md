@@ -8,11 +8,11 @@
 
 </br>
 
-https://github.com/user-attachments/assets/25276c4d-11f1-4982-b243-03dc3edceb99
+   https://github.com/user-attachments/assets/25276c4d-11f1-4982-b243-03dc3edceb99
 
 </br>
 
 ### As tecnologias utilizadas nesse projeto foram: React, React Router DOM, React Icons, TypeScript e Vite.
 <p>A API consumida foi a <a href="https://docs.coincap.io/" target="_blank" rel="noopener noreferrer">CoinCap API </a></p>
-  
+
 </div>
